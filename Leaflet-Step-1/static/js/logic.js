@@ -9,7 +9,7 @@ var streetmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}
       tileSize: 512,
       maxZoom: 18,
       zoomOffset: -1,
-      id: "mapbox/streets-v11",
+      id: "mapbox/dark-v10",
       accessToken: API_KEY
 }).addTo(myMap);
 
@@ -26,7 +26,7 @@ function getColour(d) {
       else if (d >= 3 && d < 4) { magColour = "#FD8D3C"; }
       else if (d >= 2 && d < 3) { magColour = "#FEB24C"; }
       else if (d >= 1 && d < 2) { magColour = "#FED976"; }
-      else if (d >= 0 && d < 1) { magColour = "#fAF0BE"; }
+      else if (d >= 0 && d < 1) { magColour = "#99e09c"; }
       return (magColour)
 };
 
