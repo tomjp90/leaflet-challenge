@@ -2,8 +2,16 @@
 
 This assigment utilises JavaScript leaflet to create a map to plot all of the earthquakes around the world based on their on their longitude and latitude. Using United States Geological Survey scientific data from their public site, earthquake data each day is meaninfully visualised,
 
-## Site hosted here [https://tomjp90.github.io/leaflet-challenge/](https://tomjp90.github.io/leaflet-challenge/)
-![2-BasicMap](Images/2-BasicMap.png)
+## Link to site
+[https://tomjp90.github.io/leaflet-challenge/](https://tomjp90.github.io/leaflet-challenge/)
+
+## Technolgies Used
+- Javascript
+- Leaflet
+- Geojson
+- HTML
+- CSS
+
 
 
 ### Steps for visualisation
