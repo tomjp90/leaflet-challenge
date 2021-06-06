@@ -18,7 +18,7 @@ This assigment utilises JavaScript leaflet to create a map to plot all of the ea
 
 1. **Get data set from USGS**
 
-The USGS provides earthquake data in a number of different formats, updated every 5 minutes. A JSON representation of that data is provided and using the URL to this the visualisation can be created.
+   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. A JSON representation of that data is provided and using the URL to this the        visualisation can be created.
 
    
 2. **Import & Visualize the Data**
