@@ -14,7 +14,7 @@ This assigment utilises JavaScript leaflet to create a map to plot all of the ea
 
 
 
-### Steps for visualisation
+## Steps for visualisation
 
 1. **Get data set from USGS**
 
